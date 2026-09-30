@@ -6,4 +6,3 @@
 
 ## **Tài liệu được sử dụng trong thư mục**
 - [Slide: Linear Regresion & Logistic](https://github.com/CookWang1906/Basic_deep_learning/blob/main/Bu%E1%BB%95i%20th%E1%BB%B1c%20h%C3%A0nh%20s%E1%BB%91%203%20(Linear%20Regression)/DL26%20-%20A%20-%20Linear%20Regresion%20%26%20Logistic.pdf).
-
